@@ -51,6 +51,6 @@
   function removeElementFromEndOfArray (array) {
     const l = array;
     const m = [...l]
-    l.slice(0, length - 1)
+    m.splice
     return l;
   }
