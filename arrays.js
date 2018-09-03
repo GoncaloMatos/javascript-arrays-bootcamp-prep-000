@@ -38,7 +38,7 @@
   
   function removeElementFromBeginningOfArray (array) {
     var j = array;
-    j.slice(1)
+    j = j.slice(1)
     return j
   }
   
