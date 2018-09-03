@@ -26,6 +26,5 @@
   
   function accessElementInArray (array, index) {
     var g = array;
-    g[index];
-    return g;
+    g[index]
   }
