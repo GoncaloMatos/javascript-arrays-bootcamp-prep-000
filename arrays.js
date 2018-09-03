@@ -49,7 +49,5 @@
   }
   
   function removeElementFromEndOfArray (array) {
-    const l = array;
-    l.splice(-1,1);
-    return l;
+    var l = 
   }
