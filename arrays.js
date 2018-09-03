@@ -48,3 +48,8 @@
     return k;
   }
   
+  function removeElementFromEndOfArray (array) {
+    var l = array;
+    l = l.slice(-1);
+    return l;
+  }
