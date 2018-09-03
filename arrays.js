@@ -50,5 +50,5 @@
   
   function removeElementFromEndOfArray (array) {
     var l = array;
-    var m = l.pop
+    var m = l.pop();
   }
