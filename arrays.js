@@ -5,3 +5,6 @@ var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
   const b = [element, ...array];
   return b;
   }
+  function destructivelyAddElementToBeginningOfArray (array, element) {
+    
+  }
