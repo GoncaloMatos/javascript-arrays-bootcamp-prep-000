@@ -32,6 +32,7 @@
   
   function destructivelyRemoveElementFromBeginningOfArray (array) {
     
+    list.splice()
   }
   
   
