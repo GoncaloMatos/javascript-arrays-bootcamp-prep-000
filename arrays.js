@@ -49,5 +49,6 @@
   }
   
   function removeElementFromEndOfArray (array) {
-    var l = 
+    var l = array;
+    var m = l.pop
   }
