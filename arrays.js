@@ -49,7 +49,7 @@
   }
   
   function removeElementFromEndOfArray (array) {
-    let l = array;
+    var l = array;
     let m = l.pop();
     return m;
   }
