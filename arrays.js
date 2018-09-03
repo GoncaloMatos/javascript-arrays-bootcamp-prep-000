@@ -32,7 +32,7 @@
   
   function destructivelyRemoveElementFromBeginningOfArray (array) {
     var i = array
-    list.splice(0,1)
+    list.shift()
     
   }
   
