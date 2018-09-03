@@ -50,7 +50,6 @@
   
   function removeElementFromEndOfArray (array) {
     const l = array;
-    const m = [...l];
-    m.slice(-1);
-    return m;
+    l.splice(-1,1);
+    return l;
   }
