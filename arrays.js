@@ -30,4 +30,11 @@
     return h
   }
   
+  function destructivelyRemoveElementFromBeginningOfArray (array) {
+    
+  }
+  
+  
+  
+  
   
