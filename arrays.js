@@ -42,7 +42,7 @@
     return j;
   }
   
-  function destructivelyRemoveElementFromEndOfArray (aray) {
+  function destructivelyRemoveElementFromEndOfArray (array) {
     var k = array;
     k.pop();
     return k;
